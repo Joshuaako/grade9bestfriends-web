@@ -14,3 +14,4 @@ The world's first social network dedicated to preserving school friendships from
 - TypeScript
 - Supabase (Auth, Database, Storage)
 - Tailwind CSS
+- 🚀 Deploying...
